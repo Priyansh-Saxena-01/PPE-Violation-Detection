@@ -1,0 +1,2 @@
+#exclude virtual environment
+virtual_env/
